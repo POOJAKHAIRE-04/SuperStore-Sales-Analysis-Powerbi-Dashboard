@@ -24,7 +24,7 @@ The dashboard provides interactive filters and visuals, enabling decision-makers
 ---
 
 ## 📷 Dashboard Screenshot
-
+https://github.com/POOJAKHAIRE-04/SuperStore-Sales-Analysis-Powerbi-Dashboard/tree/main/Screenshot
 
 ---
 
